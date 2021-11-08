@@ -24,7 +24,10 @@ For Seaborn
 import seaborn as sns
 
 ### Key Insights
-![image] (https://github.com/Krish0018/fifa/issues/1#issue-1047352089)
+Top 8 countries with most number of players in clubs
+
+![image] (<img width="328" alt="top club" src="https://user-images.githubusercontent.com/69238621/140738469-665c5fdd-a682-448f-9e7c-a9ce1e58679a.PNG">)
 
 Top 8 players in terms of wages or we can say richest footballer.
+
 ![image] (<img width="370" alt="player" src="https://user-images.githubusercontent.com/69238621/140738014-f2140325-002d-457a-923b-bd6f48319316.PNG">)
