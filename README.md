@@ -24,6 +24,7 @@ For Seaborn
 import seaborn as sns
 
 ### Key Insights
-![image](https://github.com/Krish0018/fifa/issues/1#issue-1047352089)
+![image] (https://github.com/Krish0018/fifa/issues/1#issue-1047352089)
 
-
+Top 8 players in terms of wages or we can say richest footballer.
+![image] (<img width="370" alt="player" src="https://user-images.githubusercontent.com/69238621/140738014-f2140325-002d-457a-923b-bd6f48319316.PNG">)
